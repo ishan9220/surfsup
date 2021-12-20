@@ -9,6 +9,8 @@ The difference in max temperature was 2 degrees between June (85F) and December 
 
 ### June Temp Records
 
+![](https://github.com/ishan9220/surfsup/blob/main/June%20Temp.png)
+
 
 
 ### Dec Temp Records 
