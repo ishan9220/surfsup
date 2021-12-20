@@ -7,9 +7,13 @@ This analysis purpose is to understand the trends in temperature for the Island 
 The analysis covered 1500-1700 temperature records in June and December where there was no significant difference between the average temperature in these two months.
 The difference in max temperature was 2 degrees between June (85F) and December (83F) and 8 degress in min temperature (June: 64F, Dec: 56F)
 
-June Temp Records
+### June Temp Records
 
-Dec Temp Records ![](https://github.com/ishan9220/surfsup/blob/main/Dec%2020%20Temp.png)
+
+
+### Dec Temp Records 
+
+![](https://github.com/ishan9220/surfsup/blob/main/Dec%2020%20Temp.png)
 
 # Summary:
 It can be concluded that we can make the recommendation to W.Avy to open up an ice cream and surf shop in Oahu as the data suggests it will be a year round sustainable business due the minimum variance in temperature across the Summmer and Winter. 
