@@ -9,7 +9,7 @@ The difference in max temperature was 2 degrees between June (85F) and December 
 
 June Temp Records
 
-Dec Temp Records
+Dec Temp Records !(https://github.com/ishan9220/surfsup/blob/main/Dec%2020%20Temp.png)
 
 # Summary:
 It can be concluded that we can make the recommendation to W.Avy to open up an ice cream and surf shop in Oahu as the data suggests it will be a year round sustainable business due the minimum variance in temperature across the Summmer and Winter. 
