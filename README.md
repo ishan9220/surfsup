@@ -7,14 +7,14 @@ This analysis purpose is to understand the trends in temperature for the Island 
 The analysis covered 1500-1700 temperature records in June and December where there was no significant difference between the average temperature in these two months.
 The difference in max temperature was 2 degrees between June (85F) and December (83F) and 8 degress in min temperature (June: 64F, Dec: 56F)
 
-### June Temp Records (Temperatures recorded in Farenheit)
+### June Temperature Records (Temperatures recorded in Farenheit)
 
 Mean temperature in June is 75°F with a standard deviation of 3.2, Min temperature 64°F, Max Temperature 85°F and Median 75°F.
 
 ![](https://github.com/ishan9220/surfsup/blob/main/June%20Temp.png)
 
 
-### Dec Temp Records (Temperatures recorded in Farenheit)
+### December Temperature Records (Temperatures recorded in Farenheit)
 
 Mean temperature in December is 71°F with a standard deviation of 3.7, Min temperature 56°F, Max Temperature 83°F and Median 71°F.
 
